@@ -42,6 +42,15 @@ An AI-powered Retrieval-Augmented Generation (RAG) app that summarizes documents
 
 ## ▶️ How to Run the App
 
+### 🔁 Clone the Repository
+
+You can clone this project from GitHub using:
+
+```bash
+git clone https://github.com/Saim-Nadeem/rag-document-summarizer.git
+cd rag-document-summarizer
+```
+
 ### 1️⃣ Install Dependencies
 
 ```bash
@@ -56,8 +65,8 @@ streamlit run rag_summarizer_app.py
 
 ### 3️⃣ Use in Browser
 
-- Upload a `.pdf`, `.txt`, or `.md` file
-- Optionally change the query (default: *"Summarize this document"*)
+- Upload a `.pdf`, `.txt`, or `.md` file  
+- Optionally change the query (default: *"Summarize this document"*)  
 - Click **"✨ Generate Summary"**
 
 ---
