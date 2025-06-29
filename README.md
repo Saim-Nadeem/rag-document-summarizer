@@ -108,7 +108,7 @@ Can be changed to:
 
 ## 📦 Requirements
 
-- Python 3.9+
+- Python 
 - Transformers
 - SentenceTransformers
 - FAISS
